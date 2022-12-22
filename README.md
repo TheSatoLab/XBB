@@ -2,12 +2,12 @@
 
 ## Summary:
 
+
+
 ## Contents:
 * **Phylogenetic analysis:** a directory containing computational codes for phylogenetic analysis
 * **Epidemic dynamics modeling analysis:** a directory containing computational codes for epidemic dynamics modeling analysis
 * **GISAID acknowledgement table:** a directory containing GISAID acknowledgement tables describing the GISAID dataset used in this study.
-
-
 
 
 ## System requirements:
