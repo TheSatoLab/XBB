@@ -18,5 +18,6 @@ To estimate the relative Re for lineages related to XBB in India, we analyzed th
 
 ## Usages:
 ```
-
+R --vanilla --slave \
+  < script/transmissibility.ver1.2.Re.XBB.India.R
 ```

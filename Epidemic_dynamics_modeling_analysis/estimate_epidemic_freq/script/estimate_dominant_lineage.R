@@ -10,16 +10,11 @@ library(RColorBrewer)
 library(maps)
 
 
-args = commandArgs(trailingOnly=T)
-
-setwd("/Users/jumpeiito/Desktop/analysis/Sato_analysis/SARS-CoV-2_variants/XBB/final_script/estimate_epidemic_freq")
-
-
 ##########args##########
 #input
 
 stan_f.name <- 'script/multinomial_independent.stan'
-metadata.name <- '../data/metadata.tsv' #args[4]
+metadata.name <- '../data/metadata.tsv'
 
 
 ##########parameters##########

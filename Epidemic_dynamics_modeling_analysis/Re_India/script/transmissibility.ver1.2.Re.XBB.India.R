@@ -9,16 +9,9 @@ library(patchwork)
 library(RColorBrewer)
 library(scales)
 
-
-
-args = commandArgs(trailingOnly=T)
-
-setwd("/Users/jumpeiito/Desktop/analysis/Sato_analysis/SARS-CoV-2_variants/XBB/final_script/Re_India")
-
-
 ##########inputs##########
 stan_f.name <- 'script//multinomial_independent.stan'
-metadata.name <- '../data/metadata.tsv' #args[4]
+metadata.name <- '../data/metadata.tsv'
 mut.info.name <- '../data/metadata.mut_long.tsv'
 
 pango.info.name <- "../data/lineage_report.2022-11-24.txt"

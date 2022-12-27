@@ -1,7 +1,7 @@
 # XBB
 
 ## Summary:
-
+In late 2022, the SARS-CoV-2 Omicron subvariants have highly diversified, and XBB variant is spreading rapidly around the world. Our phylogenetic analyses suggested that XBB emerged by recombination of two co-circulating BA.2 lineages, BJ.1 and BM.1.1.1 (a progeny of BA.2.75), during the summer of 2022 around India.
 
 
 ## Contents:
@@ -18,7 +18,7 @@
 * **CmdStanr** (R library) v0.5.3
 
 ## Citation
-Tamura et al., Recombination of the SARS-CoV-2 Omicron subvariants leading to the emergence of XBB variant. 2022 bioRxiv doi: XXX
+Tamura et al., Recombination of the SARS-CoV-2 Omicron subvariants leading to the emergence of XBB variant. 2023 bioRxiv doi: XXX
 
 ## License:
 This project is covered under the **Apache 2.0 License**.

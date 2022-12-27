@@ -19,5 +19,7 @@ To estimate the epidemic frequencies of XBB and BQ.1 lineages in each country as
 
 ## Usages:
 ```
+R --vanilla --slave \
+  script/estimate_dominant_lineage.R
 
 ```

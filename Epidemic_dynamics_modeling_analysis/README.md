@@ -15,9 +15,17 @@ We modeled the epidemic dynamics of viral lineages based on the viral genomic su
 * **patchwork** v1.1.2
 * **RColorBrewer** v1.1.3
 
+## Note:
+Please download the GISAID Metadata from the section "Download packages" (https://gisaid.org/) and save it in the **data** directory.
+Subsequently, please run the following command to extract the amino acid information from the metadata.
 
-
-## Usages:
 ```
+cd <THIS DIRECTORY>
+
+#extract mutation info
+
+python3 script/summarize_mut_info.ver2.py \
+  data/metadata.txt \
+  data/metadata.mut_long.txt
 
 ```

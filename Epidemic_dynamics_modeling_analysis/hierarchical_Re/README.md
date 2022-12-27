@@ -19,5 +19,7 @@ To estimate the global average and country-specific Re values for BQ.1 and XBB l
 
 ## Usages:
 ```
+R --vanilla --slave \
+  < script/transmissibility.hierarchical.Re.R
 
 ```

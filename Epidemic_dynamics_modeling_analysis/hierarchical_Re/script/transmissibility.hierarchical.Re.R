@@ -11,8 +11,6 @@ library(RColorBrewer)
 
 args = commandArgs(trailingOnly=T)
 
-setwd("/Users/jumpeiito/Desktop/analysis/Sato_analysis/SARS-CoV-2_variants/XBB/final_script/hierarchical_Re")
-
 
 ##########inputs##########
 stan_f.name <- 'script/multinomial_time_series_hierarchical.stan'
